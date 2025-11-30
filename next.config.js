@@ -4,7 +4,7 @@ const isGitHubPages = process.env.GITHUB_PAGES === 'true'
 const nextConfig = {
   reactStrictMode: true,
   output: 'export',
-  basePath: isGitHubPages ? '/Presentation' : '',
+  basePath: isGitHubPages ? '/CVDoctorAI' : '',
   images: {
     unoptimized: true,
   },
