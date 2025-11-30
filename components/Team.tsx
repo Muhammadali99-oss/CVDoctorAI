@@ -1,23 +1,18 @@
 export default function Team() {
   const teamMembers = [
     {
-      role: 'CEO / Founder',
-      name: 'Zafar',
+      role: 'CEO',
+      name: 'Zafar Toirov',
       skills: 'Product vision, market strategy, partnerships'
     },
     {
-      role: 'CTO',
-      name: '*Name*',
+      role: 'Mentor & Advisor CTO',
+      name: 'Mukhammadkarim Tukhtaboyev',
       skills: 'AI, NLP, Python, FastAPI, GPT integration'
     },
     {
-      role: 'Full-Stack Dev',
-      name: '*Name*',
-      skills: 'Next.js, FastAPI, UI/UX, deployment'
-    },
-    {
       role: 'HR Expert',
-      name: '*Name*',
+      name: 'Sabina Saydullayeva',
       skills: 'ATS systems, recruiter insights, CV review'
     }
   ]
