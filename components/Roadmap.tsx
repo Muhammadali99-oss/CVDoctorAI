@@ -2,32 +2,32 @@ export default function Roadmap() {
   const stages = [
     {
       stage: '🪄 Idea',
-      timeline: 'Sep–Oct 2024',
+      timeline: 'Aug–Sep 2025',
       milestones: 'Market validation, CV analysis model, survey'
     },
     {
       stage: '🔧 Prototype',
-      timeline: 'Nov–Dec 2024',
+      timeline: 'Nov–Dec 2025',
       milestones: 'CV uploading → AI scoring → suggestion report'
     },
     {
       stage: '🚀 MVP Launch',
-      timeline: 'Jan 2025',
+      timeline: 'Jan 2026',
       milestones: 'Role-based CV rewriting (Backend, Marketing, Finance)'
     },
     {
       stage: '🔄 Soft Launch',
-      timeline: 'Feb 2025',
+      timeline: 'Feb 2026',
       milestones: 'University pilots, bootcamp partnerships'
     },
     {
       stage: '💼 B2B & Marketplace',
-      timeline: 'Mar–Jun 2025',
+      timeline: 'Mar–Jun 2026',
       milestones: 'HR Mentor Marketplace, paid users, CV clinics'
     },
     {
       stage: '🌍 Expansion',
-      timeline: 'Sep 2025',
+      timeline: 'Aug 2026',
       milestones: 'Scale to Kazakhstan, Kyrgyzstan, UAE, MENA market'
     }
   ]
